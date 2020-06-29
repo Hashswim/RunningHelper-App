@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+    <resources>
+
+    <string name="app_name">[MP]TP</string>
+
+    <string name="title1">hello!</string>
+
+    <string name="easy">easy</string>
+
+    <string name="middle1">middle1</string>
+
+    <string name="middle2">middle2</string>
+
+    <string name="high">high</string>
+
+</resources>
